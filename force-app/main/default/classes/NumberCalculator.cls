@@ -8,7 +8,7 @@ public class NumberCalculator {
     // Method to calculate square with error handling
     public static Decimal calculateSquareWithValidation(Decimal ftnumber) {
         try {
-            if(fnumber == null) {
+            if(ftnumber == null) {
                 throw new CalculatorException('Input number cannot be null');
             }
             return ftnumber * ftnumber;
