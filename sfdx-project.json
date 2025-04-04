@@ -3,6 +3,10 @@
     {
       "path": "force-app",
       "default": true
+    },
+    {
+      "path": "Copadotest",
+      "default": false
     }
   ],
   "name": "sfdxTrial",
