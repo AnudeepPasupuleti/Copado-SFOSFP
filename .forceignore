@@ -27,7 +27,7 @@
 # Managed package Visualforce Pages are wholly protected and not versionable
 # Managed package Apex Classes are wholly protected and not versionable
 # additional metadata types
-package.xml
+#package.xml
 # Managed package Custom Permissions are wholly protected and not versionable
 **/flexipages/*__*.*
 **/components/*__*.*
