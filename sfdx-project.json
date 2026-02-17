@@ -3,19 +3,23 @@
     {
       "path": "force-app",
       "default": true,
+      "package": "sfdxTrial",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
       "dependencies": [
         {
           "package": "Nebula Logger",
           "versionNumber": "4.15.2.LATEST"
         }
       ]
-    },
+    }
   ],
   "name": "sfdxTrial",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "64.0",
   "packageAliases": {
+    "sfdxTrial": "0HoXXXXX",
     "Nebula Logger": "0Ho58000000011tCAA"
   }
 }
