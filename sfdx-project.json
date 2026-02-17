@@ -1,1 +1,25 @@
-{"packageDirectories":[{"path":"force-app","default":true,"dependencies":[{"package":"Nebula"}]},{"path":"Copadotest","default":false}],"name":"sfdxTrial","namespace":"","sfdcLoginUrl":"https://login.salesforce.com","sourceApiVersion":"64.0","packageAliases":{"Nebula":"0Ho58000000011tCAA"}}
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "dependencies": [
+        {
+          "package": "Nebula Logger",
+          "versionNumber": "4.15.2.LATEST"
+        }
+      ]
+    },
+    {
+      "path": "Copadotest",
+      "default": false
+    }
+  ],
+  "name": "sfdxTrial",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "64.0",
+  "packageAliases": {
+    "Nebula Logger": "0Ho58000000011tCAA"
+  }
+}
