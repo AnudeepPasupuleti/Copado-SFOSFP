@@ -5,11 +5,10 @@
       "default": true,
       "package": "sfdxTrial",
       "versionName": "ver 0.1",
-      "versionNumber": "0.1.0.1",
+      "versionNumber": "0.1.0.NEXT",
       "dependencies": [
         {
-          "package": "Nebula Logger",
-          "versionNumber": "4.15.2.LATEST"
+          "package": "Nebula Logger"
         }
       ]
     }
