@@ -5,7 +5,7 @@
       "default": true,
       "package": "sfdxTrial",
       "versionName": "ver 0.6",
-      "versionNumber": "0.6.4.NEXT",
+      "versionNumber": "0.6.6.NEXT",
       "dependencies": [
         {
           "package": "04tWz000000USV7IAO"
